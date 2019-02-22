@@ -21,5 +21,5 @@ Then start the container:
 
 # Environment variables
 
-See the `sepb/elk` image documentation [here](https://elk-docker.readthedocs.io/) for
+See the `sebp/elk` image documentation [here](https://elk-docker.readthedocs.io/) for
 additional information on environment variables.
